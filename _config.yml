@@ -1,9 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Kun Hu # your name (or website title) here
+logo: "/images/hukun.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Education Background  
+  Graduate School of Chinese Academy of Sciences                           2019.09—2022.06
+  Tianjin Polytechnic University (TJPU)                                     2015.09—2019.06
   <br><br>
-  Second description 
+  Subject Competition Experience  
+  School-level "Seeking Cup" Math Competition First Prize                          2016.03
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
