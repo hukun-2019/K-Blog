@@ -52,7 +52,7 @@ University, Tianjin, China. 2015.09-2019.06 (GPA:3.86, Top 1/55)
 - 2016-2017 National Scholarship
 - 2018-2019 Outstanding Graduates
 - 2019-2020 Outstanding Communist Party Member of Chinese Academy of Sciences
-- [2020-2021 Chinese Academy of Sciences ”Director’s Special Scholarship”](http://www.csu.cas.cn/gb/yjsjy2/tzygg/202105/t20210521_6036343.html)
+- 2020-2021 Chinese Academy of Sciences ”Director’s Special Scholarship”
 
 # Research Experience
 1. [Wang, X., Hu, K., Hu, J., et al. Robust and blind image watermarking via circular embedding and bidimensional
