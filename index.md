@@ -75,8 +75,8 @@ Image Watermarking. Journal of Information Security and Applications 59 (2021): 
 3. Hu, K., et al. A novel robust zero-watermarking algorithm for medical images. Vis Comput (2021). (IF:2.601)
 4. Hu, K., Wang, X., Hu, J., et al. Robust and Efficient Image Watermarking Algorithm based on Empirical Mode
 Decomposition and Hilbert Curve. Vis Comput (2021). (IF:2.601)
-5. Hu, K., Yang, J., et al. An efficient and robust zero watermarking algorithm, MTA. Under Review (IF:2.757)
-6. Hu, K., Wang, H., Zhang, W., et al. Modeling and Simulation of Sky Survey. MDPI. Under Review (IF:2.679). 
+5. Hu, K., Yang, J., et al. An efficient and robust zero watermarking algorithm, MTA. **Under Review** (IF:2.757)
+6. Hu, K., Wang, H., Zhang, W., et al. Modeling and Simulation of Sky Survey. MDPI. **Under Review** (IF:2.679). 
 7. Wang, X., Zhang, L., Yu, Y., Hu, K., Hu, J. Robust image watermarking network algorithm based on effective neural
 architecture search. Journal of ZheJIang University(Science Edition), 2021, 48(3): 261-269. (In Chinese)
 8. Hu, K., Wang, X., Hu, J. Repeated embedding image watermarking algorithm combining BEMD and Hilbert curve.
@@ -84,7 +84,7 @@ Journal of Computer Aided Design and Graphics, 2020, 32(02):287-296. (In Chinese
 9. Hu, K., Wang, X., Hu, J., et al. Robust algorithm for multiple watermarking of color images based on BEMD and DCT.
 Journal of Beijing University of Aeronautics and Astronautics, 2021, 1-16. (In Chinese, EI)
 10. Xu, Y., Hu, K., Wang, X., et al. Zero watermarking algorithm for remote sensing images based on BEMD and DFT.
-Journal of Computer Aided Design and Graphics. Under Review (In Chinese, EI)
+Journal of Computer Aided Design and Graphics. **Under Review** (In Chinese, EI)
 11. Invited reviewer for SCI journals and International Conference. (IF: 2.924 International Journal of Electronics and
 Communications. The 5th International Conference on Computer Science and Application Engineering (CSAE 2021) )
 12. Two invention patents and two National Natural Science Foundation projects (In Research)
