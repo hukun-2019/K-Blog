@@ -31,13 +31,36 @@ My Resume: updating
 
 ---
 
-### Category Name 2
+### Education
+- Master’s degree, Mathematics and applied mathematics, University of
+Chinese Academy of Sciences, Beijing, China. 2019.09-Present
+(GPA:3.77, Average:85.56)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- Bachelor’s degree in Mathematics and applied mathematics, Tiangong
+University, Tianjin, China. 2015.09-2019.06 (GPA:3.86, Top 1/55)
+High School, Xinyang, Henan Province, China. 2012.09-2015.06
+
+- Third year of junior high school, Xinyang, Henan Province, China.
+2011.09-2012.06 (Top 1/400+)
+
+- Elementary School and Junior High School, Daxing, Beijing, China.
+2002.09-2011.06 (Top 1/300+)
+
+### Competitions and Awards
+#### Undergraduate
+- 2016.03 Mathematics Competition First Prize School
+- 2016.06 English Writing Contest First Prize School
+- 2016.11 HSBC Cup SAS Data Analysis Competition Top 100 National
+- 2017.05 American college mathematical modeling competition Second Prize National
+- 2017.11 International Mathematical Modeling Competition Grand Prize Provincial
+- 2017.11 NCAA English Contest Category C Third Prize National
+- 2018.04 American college mathematical modeling competition First Prize National
+- 2018.05 National Market Research & Analysis Competition Third Prize National
+#### Graduate
+- 2019.11 Huawei Cup Mathematical Modeling Competition Second Prize National
+- 2020.08 Huashu Cup Mathematical Modeling Competition First Prize National
+- 2020.11 Huawei Cup Mathematical Modeling Competition Second Prize National
+- 2020.12 The 11th National Rail Design Competition First Prize National
 
 ---
 
