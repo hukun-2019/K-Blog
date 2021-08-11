@@ -20,7 +20,7 @@ My Resume: updating
 ## Papers
 [2020-The Visual Computer-Robust and blind image watermarking via circular embedding and bidimensional empirical mode decomposition](https://link.springer.com/article/10.1007/s00371-020-01909-2)
 <img src="images/Fig1.pdf?raw=true"/>
-<img src="images/Fig1.pdf?raw=true"/>
+<img src="images/Fig2.pdf?raw=true"/>
 ---
 [2021-The Visual Computer-A novel robust zero-watermarking algorithm for medical images](https://link.springer.com/article/10.1007/s00371-021-02168-5)
 <img src="images/2020_TVC.png?raw=true"/>
