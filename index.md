@@ -7,7 +7,7 @@ I will update my blog weekly.
 
 ## How can you reach me?
 Email: ucas_hukun#163.com. Please replace “#” with “@”.
-Address: Tongji University, No. 4800 Cao’an Highway, Jiading Campus, Shanghai, P.R.China
+Address: No 9.Deng Zhuang South Rd, Hai Dian Dist,Beijing,100094,China
 My Resume: updating
 
 ## Papers
