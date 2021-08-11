@@ -1,11 +1,9 @@
 title: Kun Hu # your name (or website title) here
 logo: "/images/Kukun1.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-
 I received the B.S. degree from [Tiangong University](https://en.tiangong.edu.cn/). 
 I am currently pursuing the M.S. degree with the [Technology and Engineering Center for Space Utilization, 
 Chinese Academy of Sciences](http://english.csu.cas.cn/), China. 
 My research interests include image processing and spacecraft intelligent planning algorithm.            
-
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
