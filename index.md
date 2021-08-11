@@ -47,6 +47,7 @@ High School, Xinyang, Henan Province, China. 2012.09-2015.06
 2002.09-2011.06 (Top 1/300+)
 
 ### Competitions
+
 #### Undergraduate
 - 2016.03 Mathematics Competition First Prize School
 - 2016.06 English Writing Contest First Prize School
@@ -56,11 +57,13 @@ High School, Xinyang, Henan Province, China. 2012.09-2015.06
 - 2017.11 NCAA English Contest Category C Third Prize National
 - 2018.04 American college mathematical modeling competition First Prize National
 - 2018.05 National Market Research & Analysis Competition Third Prize National
+
 #### Graduate
 - 2019.11 Huawei Cup Mathematical Modeling Competition Second Prize National
 - 2020.08 Huashu Cup Mathematical Modeling Competition First Prize National
 - 2020.11 Huawei Cup Mathematical Modeling Competition Second Prize National
 - 2020.12 The 11th National Rail Design Competition First Prize National
+
 ### Awards
 - 2016-2017 National Scholarship
 - 2018-2019 Outstanding Graduates
