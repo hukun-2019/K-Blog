@@ -6,16 +6,18 @@ I will update my blog weekly.
 ---
 
 ## How can you reach me?
-Email: jack.zhaoqingsong#gmail.com. Please replace “#” with “@”.
+Email: ucas_hukun#163.com. Please replace “#” with “@”.
 Address: Tongji University, No. 4800 Cao’an Highway, Jiading Campus, Shanghai, P.R.China
 My Resume: updating
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Papers
+[2020-The Visual Computer-Robust and blind image watermarking via circular embedding and bidimensional empirical mode decomposition](/sample_page)
+<p style="font-size:11px">Page template forked from <a href="https://link.springer.com/article/10.1007/s00371-020-01909-2">evanca</a></p>
+<img src="images/2020_TVC.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[2021-The Visual Computer-A novel robust zero-watermarking algorithm for medical images](/pdf/sample_presentation.pdf)
+<img src="images/2020_TVC.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
