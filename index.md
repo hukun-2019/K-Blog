@@ -20,19 +20,19 @@ My Resume: updating
 ---
 
 # Education
-- Master’s degree, Mathematics and applied mathematics, University of
+1. Master’s degree, Mathematics and applied mathematics, University of
 Chinese Academy of Sciences, Beijing, China. 2019.09-Present
 (GPA:3.77, Average:85.56)
 
-- Bachelor’s degree in Mathematics and applied mathematics, Tiangong
+2. Bachelor’s degree in Mathematics and applied mathematics, Tiangong
 University, Tianjin, China. 2015.09-2019.06 (GPA:3.86, Top 1/55)
 
-- High School, Xinyang, Henan Province, China. 2012.09-2015.06
+3. High School, Xinyang, Henan Province, China. 2012.09-2015.06
 
-- Third year of junior high school, Xinyang, Henan Province, China.
+4. Third year of junior high school, Xinyang, Henan Province, China.
 2011.09-2012.06 (Top 1/400+)
 
-- Elementary School and Junior High School, Daxing, Beijing, China.
+5. Elementary School and Junior High School, Daxing, Beijing, China.
 2002.09-2011.06 (Top 1/300+)
 
 # Competitions
