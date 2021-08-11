@@ -26,7 +26,8 @@ Chinese Academy of Sciences, Beijing, China. 2019.09-Present
 
 - Bachelor’s degree in Mathematics and applied mathematics, Tiangong
 University, Tianjin, China. 2015.09-2019.06 (GPA:3.86, Top 1/55)
-High School, Xinyang, Henan Province, China. 2012.09-2015.06
+
+- High School, Xinyang, Henan Province, China. 2012.09-2015.06
 
 - Third year of junior high school, Xinyang, Henan Province, China.
 2011.09-2012.06 (Top 1/400+)
