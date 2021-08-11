@@ -1,8 +1,14 @@
-## Portfolio
-
+## Welcome
+I hope to communicate and study with you.
+This is my first study blog, please waiting for my updating.
+I will transfer notes from Youdao Cloud Notes and Zhihu platform to my own personal blog.
+I will update my blog weekly.
 ---
 
-### Category Name 1 
+## How can you reach me?
+Email: jack.zhaoqingsong#gmail.com. Please replace “#” with “@”.
+Address: Tongji University, No. 4800 Cao’an Highway, Jiading Campus, Shanghai, P.R.China
+My Resume: updating
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
