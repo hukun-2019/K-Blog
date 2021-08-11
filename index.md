@@ -1,4 +1,4 @@
-## Welcome
+# Welcome
 
 I hope to communicate and study with you.
 
@@ -10,27 +10,16 @@ I will update my blog weekly.
 
 ---
 
-## How can you reach me?
+# How can you reach me?
 Email: ucas_hukun#163.com. Please replace “#” with “@”.
 
 Address: No 9.Deng Zhuang South Rd, Hai Dian Dist,Beijing,100094,China
 
 My Resume: updating
 
-## Papers
-[2020-The Visual Computer-Robust and blind image watermarking via circular embedding and bidimensional empirical mode decomposition](https://link.springer.com/article/10.1007/s00371-020-01909-2)
-
----
-[2021-The Visual Computer-A novel robust zero-watermarking algorithm for medical images](https://link.springer.com/article/10.1007/s00371-021-02168-5)
-<img src="images/2020_TVC.png?raw=true"/>
-
----
-[2021-Journal of Information Security and Applications-Mapping based Residual Convolution Neural Network for Non-embedding and Blind Image Watermarking](https://www.sciencedirect.com/science/article/abs/pii/S2214212621000594)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
-### Education
+# Education
 - Master’s degree, Mathematics and applied mathematics, University of
 Chinese Academy of Sciences, Beijing, China. 2019.09-Present
 (GPA:3.77, Average:85.56)
@@ -45,9 +34,8 @@ High School, Xinyang, Henan Province, China. 2012.09-2015.06
 - Elementary School and Junior High School, Daxing, Beijing, China.
 2002.09-2011.06 (Top 1/300+)
 
-### Competitions
+# Competitions
 
-#### Undergraduate
 - 2016.03 Mathematics Competition First Prize School
 - 2016.06 English Writing Contest First Prize School
 - 2016.11 HSBC Cup SAS Data Analysis Competition Top 100 National
@@ -56,20 +44,18 @@ High School, Xinyang, Henan Province, China. 2012.09-2015.06
 - 2017.11 NCAA English Contest Category C Third Prize National
 - 2018.04 American college mathematical modeling competition First Prize National
 - 2018.05 National Market Research & Analysis Competition Third Prize National
-
-#### Graduate
 - 2019.11 Huawei Cup Mathematical Modeling Competition Second Prize National
 - 2020.08 Huashu Cup Mathematical Modeling Competition First Prize National
 - 2020.11 Huawei Cup Mathematical Modeling Competition Second Prize National
 - 2020.12 The 11th National Rail Design Competition First Prize National
 
-### Awards
+# Awards
 - 2016-2017 National Scholarship
 - 2018-2019 Outstanding Graduates
 - 2019-2020 Outstanding Communist Party Member of Chinese Academy of Sciences
 - 2020-2021 Chinese Academy of Sciences ”Director’s Special Scholarship”
 
-### Research Experience
+# Research Experience
 1. [Wang, X., Hu, K., Hu, J., et al. Robust and blind image watermarking via circular embedding and bidimensional
 empirical mode decomposition. Vis Comput 36, 2201-2214 (2020). (IF:2.351)](https://link.springer.com/article/10.1007/s00371-020-01909-2)
 2. [Wang, X., Ma, D., Hu, K., et al. Mapping based Residual Convolution Neural Network for Non-embedding and Blind
