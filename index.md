@@ -2,7 +2,7 @@
 
 I hope to communicate and study with you.
 
-This is my first study blog, please waiting for my updating.
+This is my first study blog, please waite for my updating.
 
 I will update my blog weekly.
 
@@ -76,13 +76,8 @@ Journal of Computer Aided Design and Graphics. **Under Review** (In Chinese, EI)
 11. Invited reviewer for SCI journals and International Conference. (IF: 2.924 International Journal of Electronics and
 Communications. The 5th International Conference on Computer Science and Application Engineering (CSAE 2021) )
 12. Two invention patents and two National Natural Science Foundation projects (**In Research**)
-13.  Image Watermarking Robustness Improvement Strategy Based on Convolutional Neural Network (**Ongoing**)
-14.  A Novel Deep Neural Network Watermark Algorithm Based on Transfer and Integrated Learning (**Ongoing**)
----
-
-
-
-
+13. Image Watermarking Robustness Improvement Strategy Based on Convolutional Neural Network (**Ongoing**)
+14. A Novel Deep Neural Network Watermark Algorithm Based on Transfer and Integrated Learning (**Ongoing**)
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
