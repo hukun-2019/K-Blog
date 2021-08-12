@@ -35,24 +35,25 @@ University, Tianjin, China. 2015.09-2019.06 (GPA:3.86, Top 1/55)
 
 # Competitions
 
-- 2016.03 Mathematics Competition First Prize School
-- 2016.06 English Writing Contest First Prize School
-- 2016.11 HSBC Cup SAS Data Analysis Competition Top 100 National
-- 2017.05 American college mathematical modeling competition Second Prize National
-- 2017.11 International Mathematical Modeling Competition Grand Prize Provincial
-- 2017.11 NCAA English Contest Category C Third Prize National
-- 2018.04 American college mathematical modeling competition First Prize National
-- 2018.05 National Market Research & Analysis Competition Third Prize National
-- 2019.11 Huawei Cup Mathematical Modeling Competition Second Prize National
-- 2020.08 Huashu Cup Mathematical Modeling Competition First Prize National
-- 2020.11 Huawei Cup Mathematical Modeling Competition Second Prize National
-- 2020.12 The 11th National Rail Design Competition First Prize National
+- 2016.03 Mathematics Competition **First Prize** School
+- 2016.06 English Writing Contest **First Prize** School
+- 2016.11 HSBC Cup SAS Data Analysis Competition **Top 100** National
+- 2017.05 American college mathematical modeling competition **Second Prize** National
+- 2017.11 International Mathematical Modeling Competition **Grand Prize** Provincial
+- 2017.11 NCAA English Contest Category C **Third Prize** National
+- 2018.04 American college mathematical modeling competition **First Prize** National
+- 2018.05 National Market Research & Analysis Competition **Third Prize** National
+- 2019.11 Huawei Cup Mathematical Modeling Competition **Second Prize** National
+- 2020.08 Huashu Cup Mathematical Modeling Competition **First Prize** National
+- 2020.11 Huawei Cup Mathematical Modeling Competition **Second Prize** National
+- [2020.12 The 11th China Trajectory Optimization Competition (CTOC) **First Prize** National](http://sa.hit.edu.cn/2020/1228/c6678a250571/page.htm)
 
 # Awards
 - 2016-2017 National Scholarship
 - 2018-2019 Outstanding Graduates
 - 2019-2020 Outstanding Communist Party Member of Chinese Academy of Sciences
-- 2020-2021 Chinese Academy of Sciences ”Director’s Special Scholarship”
+- [2020-2021 Outstanding student](http://www.csu.cas.cn/gb/yjsjy2/tzygg/202104/t20210426_5998302.html)
+- [2020-2021 Chinese Academy of Sciences ”Director’s Special Scholarship”](http://www.csu.cas.cn/gb/yjsjy2/tzygg/202105/t20210521_6036343.html)
 
 # Research Experience
 1. [Wang, X., Hu, K., Hu, J., et al. Robust and blind image watermarking via circular embedding and bidimensional
@@ -74,8 +75,9 @@ Journal of Beijing University of Aeronautics and Astronautics, 2021, 1-16. (In C
 Journal of Computer Aided Design and Graphics. **Under Review** (In Chinese, EI)
 11. Invited reviewer for SCI journals and International Conference. (IF: 2.924 International Journal of Electronics and
 Communications. The 5th International Conference on Computer Science and Application Engineering (CSAE 2021) )
-12. Two invention patents and two National Natural Science Foundation projects (In Research)
-
+12. Two invention patents and two National Natural Science Foundation projects (**In Research**)
+13.  Image Watermarking Robustness Improvement Strategy Based on Convolutional Neural Network (**Ongoing**)
+14.  Ti-DNN: A Novel Deep Neural Network Watermark Algorithm Based on Transfer and Integrated Learning (**Ongoing**)
 ---
 
 
