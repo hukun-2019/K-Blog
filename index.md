@@ -77,7 +77,7 @@ Journal of Computer Aided Design and Graphics. **Under Review** (In Chinese, EI)
 Communications. The 5th International Conference on Computer Science and Application Engineering (CSAE 2021) )
 12. Two invention patents and two National Natural Science Foundation projects (**In Research**)
 13.  Image Watermarking Robustness Improvement Strategy Based on Convolutional Neural Network (**Ongoing**)
-14.  Ti-DNN: A Novel Deep Neural Network Watermark Algorithm Based on Transfer and Integrated Learning (**Ongoing**)
+14.  A Novel Deep Neural Network Watermark Algorithm Based on Transfer and Integrated Learning (**Ongoing**)
 ---
 
 
