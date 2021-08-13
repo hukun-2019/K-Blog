@@ -78,6 +78,8 @@ Communications. The 5th International Conference on Computer Science and Applica
 12. Two invention patents and two National Natural Science Foundation projects (**In Research**)
 13. Image Watermarking Robustness Improvement Strategy Based on Convolutional Neural Network (**Ongoing**)
 14. A Novel Deep Neural Network Watermark Algorithm Based on Transfer and Integrated Learning (**Ongoing**)
+15. Transfer Learning on Watermarking (**Ongoing**)
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
