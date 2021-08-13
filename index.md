@@ -13,8 +13,6 @@ Email: ucas_hukun#163.com. Please replace “#” with “@”.
 
 Address: No 9.Deng Zhuang South Rd, Hai Dian Dist,Beijing,100094,China
 
-My Resume: updating
-
 ---
 
 # Education
