@@ -60,9 +60,9 @@ empirical mode decomposition. Vis Comput 36, 2201-2214 (2020). (IF:2.351)](https
 Image Watermarking. Journal of Information Security and Applications 59 (2021): 102820. (IF:3.872)](https://www.sciencedirect.com/science/article/abs/pii/S2214212621000594)
 3. [Hu, K., et al. A novel robust zero-watermarking algorithm for medical images. Vis Comput (2021). (IF:2.601)](https://link.springer.com/article/10.1007/s00371-021-02168-5)
 4. Hu, K., Wang, X., Hu, J., et al. Robust and Efficient Image Watermarking Algorithm based on Empirical Mode
-Decomposition and Hilbert Curve. Vis Comput (2021). (IF:2.601)
+Decomposition and Hilbert Curve. Vis Comput (2021). **Accepted** (IF:2.601)
 5. Hu, K., Yang, J., et al. An efficient and robust zero watermarking algorithm, MTA. **Under Review** (IF:2.757)
-6. Hu, K., Wang, H., Zhang, W., et al. Modeling and Simulation of Sky Survey. MDPI. **Under Review** (IF:2.679). 
+6. Hu, K., Wang, H., Zhang, W., et al. Modeling and Simulation of Sky Survey. MDPI. **Accepted** (IF:2.679). 
 7. [Wang, X., Zhang, L., Yu, Y., Hu, K., Hu, J. Robust image watermarking network algorithm based on effective neural
 architecture search. Journal of ZheJIang University(Science Edition), 2021, 48(3): 261-269. (In Chinese)](https://kns.cnki.net/kcms/detail/detail.aspx?filename=HZDX202103001&dbcode=CJFD&dbname=CJFD2021&v=ku0bILSoL3L4Wt-KwHuXVETCxmWFHczJJwO0K5BHtAhA4iFJtl183gewfZMQxNbj)
 8. [Hu, K., Wang, X., Hu, J. Repeated embedding image watermarking algorithm combining BEMD and Hilbert curve.
@@ -73,11 +73,9 @@ Journal of Beijing University of Aeronautics and Astronautics, 2021, 1-16. (In C
 Journal of Computer Aided Design and Graphics. **Under Review** (In Chinese, EI)
 11. Invited reviewer for SCI journals and International Conference. (IF: 2.924 International Journal of Electronics and
 Communications. The 5th International Conference on Computer Science and Application Engineering (CSAE 2021) )
-12. Two invention patents (**Under Authorized**) and two National Natural Science Foundation projects (**In Research**)
-13. Image Watermarking Robustness Improvement Strategy Based on Convolutional Neural Network (**Ongoing**)
-14. A Novel Deep Neural Network Watermark Algorithm Based on Transfer and Integrated Learning (**Ongoing**)
-15. Transfer Learning on Watermarking (**Ongoing**)
-
+12. [COMPUTER GRAPHICS INTERNATIONAL CGI 2021, ONLINE , 6-10 September, 2021](http://www.cgs-network.org/cgi21/#features). Introduction to my research(YouTube(https://www.youtube.com/watch?v=h3UzlbjP_IU))
+13. Two invention patents (**Under Authorized**) and two National Natural Science Foundation projects (**In Research**)
+14. Student member of the China Computer Federation (CCF) and Institute of Electrical and Electronics Engineers (IEEE).
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
