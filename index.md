@@ -75,7 +75,9 @@ Journal of Computer Aided Design and Graphics. **Under Review** (In Chinese, EI)
 Communications. The 5th International Conference on Computer Science and Application Engineering (CSAE 2021) )
 12. [COMPUTER GRAPHICS INTERNATIONAL CGI 2021, ONLINE , 6-10 September, 2021](http://www.cgs-network.org/cgi21/#features). Introduction to my research([YouTube](https://www.youtube.com/watch?v=h3UzlbjP_IU))
 13. Two invention patents (Under Authorized) and two National Natural Science Foundation projects (In Research)
-14. Student member of the China Computer Federation (CCF) and Institute of Electrical and Electronics Engineers (IEEE).
+15. Student member of the China Computer Federation (CCF) and Institute of Electrical and Electronics Engineers (IEEE).
+
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
