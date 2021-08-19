@@ -44,35 +44,35 @@ University, Tianjin, China. 2015.09-2019.06 (GPA:3.86, Top 1/55)
 - 2019.11 Huawei Cup Mathematical Modeling Competition **Second Prize** National
 - 2020.08 Huashu Cup Mathematical Modeling Competition **First Prize** National
 - 2020.11 Huawei Cup Mathematical Modeling Competition **Second Prize** National
-- [2020.12 The 11th China Trajectory Optimization Competition (CTOC) **First Prize** National](http://sa.hit.edu.cn/2020/1228/c6678a250571/page.htm)
+- 2020.12 The 11th China Trajectory Optimization Competition (CTOC) **First Prize** [National](http://sa.hit.edu.cn/2020/1228/c6678a250571/page.htm)
 
 # Awards
 - 2016-2017 National Scholarship
 - 2018-2019 Outstanding Graduates
 - 2019-2020 Outstanding Communist Party Member of Chinese Academy of Sciences
-- [2020-2021 Outstanding student](http://www.csu.cas.cn/gb/yjsjy2/tzygg/202104/t20210426_5998302.html)
-- [2020-2021 Chinese Academy of Sciences ”Director’s Special Scholarship”](http://www.csu.cas.cn/gb/yjsjy2/tzygg/202105/t20210521_6036343.html)
+- 2020-2021 [Outstanding student](http://www.csu.cas.cn/gb/yjsjy2/tzygg/202104/t20210426_5998302.html)
+- 2020-2021 Chinese Academy of Sciences [”Director’s Special Scholarship”](http://www.csu.cas.cn/gb/yjsjy2/tzygg/202105/t20210521_6036343.html)
 
 # Research Experience
-1. [Wang, X., Hu, K., Hu, J., et al. Robust and blind image watermarking via circular embedding and bidimensional
-empirical mode decomposition. Vis Comput 36, 2201-2214 (2020). (IF:2.351)](https://link.springer.com/article/10.1007/s00371-020-01909-2)
-2. [Wang, X., Ma, D., Hu, K., et al. Mapping based Residual Convolution Neural Network for Non-embedding and Blind
-Image Watermarking. Journal of Information Security and Applications 59 (2021): 102820. (IF:3.872)](https://www.sciencedirect.com/science/article/abs/pii/S2214212621000594)
-3. [Hu, K., et al. A novel robust zero-watermarking algorithm for medical images. Vis Comput (2021). (IF:2.601)](https://link.springer.com/article/10.1007/s00371-021-02168-5)
-4. [Hu, K., Wang, X., Hu, J., et al. Robust and efficient image watermarking via EMD and dimensionality reduction. Vis Comput (2021). (IF:2.601)](https://link.springer.com/article/10.1007/s00371-021-02275-3)
+1. Wang, X., Hu, K., Hu, J., et al. Robust and blind image watermarking via circular embedding and bidimensional
+empirical mode decomposition. Vis Comput 36, 2201-2214 (2020). [(IF:2.351)](https://link.springer.com/article/10.1007/s00371-020-01909-2)
+2. Wang, X., Ma, D., Hu, K., et al. Mapping based Residual Convolution Neural Network for Non-embedding and Blind
+Image Watermarking. Journal of Information Security and Applications 59 (2021): 102820. [(IF:3.872)](https://www.sciencedirect.com/science/article/abs/pii/S2214212621000594)
+3. Hu, K., et al. A novel robust zero-watermarking algorithm for medical images. Vis Comput (2021). [(IF:2.601)](https://link.springer.com/article/10.1007/s00371-021-02168-5)
+4. Hu, K., Wang, X., Hu, J., et al. Robust and efficient image watermarking via EMD and dimensionality reduction. Vis Comput (2021). [(IF:2.601)](https://link.springer.com/article/10.1007/s00371-021-02275-3)
 5. Hu, K., Yang, J., et al. An efficient and robust zero watermarking algorithm, MTA. **Under Review** (IF:2.757)
-6. [Hu K, Wang H, Zhang W, Xu Y, He S. Modeling and Simulation of Sky Survey. Applied Sciences. 2021; 11(16):7584.(IF:2.679).] (https://www.mdpi.com/2076-3417/11/16/7584)
-7. [Wang, X., Zhang, L., Yu, Y., Hu, K., Hu, J. Robust image watermarking network algorithm based on effective neural
-architecture search. Journal of ZheJIang University(Science Edition), 2021, 48(3): 261-269. (In Chinese)](https://kns.cnki.net/kcms/detail/detail.aspx?filename=HZDX202103001&dbcode=CJFD&dbname=CJFD2021&v=ku0bILSoL3L4Wt-KwHuXVETCxmWFHczJJwO0K5BHtAhA4iFJtl183gewfZMQxNbj)
-8. [Hu, K., Wang, X., Hu, J. Repeated embedding image watermarking algorithm combining BEMD and Hilbert curve.
-Journal of Computer Aided Design and Graphics, 2020, 32(02):287-296. (In Chinese, EI)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=JSJF202002014&v=wxqSdv5Tp0jaU4Tyl31KEp0c79xWHosANDo7ztL7Ubn0shAX61siP5n3V9i0jvHR)
-9. [Hu, K., Li, C., Wang, X., Hu, J., et al. Robust algorithm for multiple watermarking of color images based on BEMD and DCT.
-Journal of Beijing University of Aeronautics and Astronautics, 2021, 1-16. (In Chinese, EI)](https://kns.cnki.net/kcms/detail/detail.aspx?filename=BJHK20210613006&dbcode=CAPJ&dbname=CAPJ2021&v=VPpzCYKdySPWHy45Z-TLSu00AknPUQkFRizoZM6F1fT0QAhzTVE8fnVksMKNSdc3)
+6. Hu K, Wang H, Zhang W, Xu Y, He S. Modeling and Simulation of Sky Survey. Applied Sciences. 2021; 11(16):7584.[(IF:2.679).](https://www.mdpi.com/2076-3417/11/16/7584)
+7. Wang, X., Zhang, L., Yu, Y., Hu, K., Hu, J. Robust image watermarking network algorithm based on effective neural
+architecture search. Journal of ZheJIang University(Science Edition), 2021, 48(3): 261-269. [(In Chinese)](https://kns.cnki.net/kcms/detail/detail.aspx?filename=HZDX202103001&dbcode=CJFD&dbname=CJFD2021&v=ku0bILSoL3L4Wt-KwHuXVETCxmWFHczJJwO0K5BHtAhA4iFJtl183gewfZMQxNbj)
+8. Hu, K., Wang, X., Hu, J. Repeated embedding image watermarking algorithm combining BEMD and Hilbert curve.
+Journal of Computer Aided Design and Graphics, 2020, 32(02):287-296. [(In Chinese, EI)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=JSJF202002014&v=wxqSdv5Tp0jaU4Tyl31KEp0c79xWHosANDo7ztL7Ubn0shAX61siP5n3V9i0jvHR)
+9. Hu, K., Li, C., Wang, X., Hu, J., et al. Robust algorithm for multiple watermarking of color images based on BEMD and DCT.
+Journal of Beijing University of Aeronautics and Astronautics, 2021, 1-16. [(In Chinese, EI)](https://kns.cnki.net/kcms/detail/detail.aspx?filename=BJHK20210613006&dbcode=CAPJ&dbname=CAPJ2021&v=VPpzCYKdySPWHy45Z-TLSu00AknPUQkFRizoZM6F1fT0QAhzTVE8fnVksMKNSdc3)
 10. Xu, Y., Hu, K., Wang, X., et al. Zero watermarking algorithm for remote sensing images based on BEMD and DFT.
 Journal of Computer Aided Design and Graphics. **Under Review** (In Chinese, EI)
 11. Invited reviewer for SCI journals and International Conference. (IF: 2.924 International Journal of Electronics and
 Communications. The 5th International Conference on Computer Science and Application Engineering (CSAE 2021) )
-12. [COMPUTER GRAPHICS INTERNATIONAL CGI 2021, ONLINE , 6-10 September, 2021](http://www.cgs-network.org/cgi21/#features). Introduction to my research([YouTube](https://www.youtube.com/watch?v=h3UzlbjP_IU))
+12. [COMPUTER GRAPHICS INTERNATIONAL CGI 2021](http://www.cgs-network.org/cgi21/#features). Introduction to my research([YouTube](https://www.youtube.com/watch?v=h3UzlbjP_IU))
 13. Two invention patents (Under Authorized) and two National Natural Science Foundation projects (In Research)
 15. Student member of the China Computer Federation (CCF) and Institute of Electrical and Electronics Engineers (IEEE).
 
