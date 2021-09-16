@@ -1,3 +1,6 @@
+# News
+I have now received a letter of acceptance for my PhD from the Shenzhen International Graduate School of [Tsinghua University](https://www.sigs.tsinghua.edu.cn/main.htm).
+
 # Welcome
 
 I hope to communicate and study with you.
