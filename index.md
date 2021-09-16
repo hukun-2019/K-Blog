@@ -1,6 +1,8 @@
 # News
+
 I have now received a letter of acceptance for my PhD from the Shenzhen International Graduate School of [Tsinghua University](https://www.sigs.tsinghua.edu.cn/main.htm).
 
+---
 # Welcome
 
 I hope to communicate and study with you.
@@ -34,6 +36,7 @@ University, Tianjin, China. 2015.09-2019.06 (GPA:3.86, Top 1/55)
 - Elementary School and Junior High School, Daxing, Beijing, China.
 2002.09-2011.06 (Top 1/300+)
 
+---
 # Competitions
 
 - 2016.03 Mathematics Competition **First Prize** School
@@ -49,6 +52,7 @@ University, Tianjin, China. 2015.09-2019.06 (GPA:3.86, Top 1/55)
 - 2020.11 Huawei Cup Mathematical Modeling Competition **Second Prize** National
 - 2020.12 The 11th China Trajectory Optimization Competition (CTOC) **First Prize** [National](http://sa.hit.edu.cn/2020/1228/c6678a250571/page.htm)
 
+---
 # Awards
 - 2016-2017 National Scholarship
 - 2018-2019 Outstanding Graduates
@@ -56,6 +60,7 @@ University, Tianjin, China. 2015.09-2019.06 (GPA:3.86, Top 1/55)
 - 2020-2021 [Outstanding student](http://www.csu.cas.cn/gb/yjsjy2/tzygg/202104/t20210426_5998302.html)
 - 2020-2021 Chinese Academy of Sciences [”Director’s Special Scholarship”](http://www.csu.cas.cn/gb/yjsjy2/tzygg/202105/t20210521_6036343.html)
 
+---
 # Research Experience
 1. Wang, X., Hu, K., Hu, J., et al. Robust and blind image watermarking via circular embedding and bidimensional
 empirical mode decomposition. Vis Comput 36, 2201-2214 (2020). [(IF:2.351)](https://link.springer.com/article/10.1007/s00371-020-01909-2)
