@@ -16,7 +16,7 @@ I will update my blog weekly.
 # How can you reach me?
 Email: ucas_hukun#163.com. Please replace “#” with “@”.
 
-Address: No 9.Deng Zhuang South Rd, Hai Dian Dist,Beijing,100094,China
+Address: No 9.Deng Zhuang South Rd, Hai Dian Dist, Beijing, 100094, China
 
 ---
 
@@ -77,12 +77,12 @@ Journal of Computer Aided Design and Graphics, 2020, 32(02):287-296. [[In Chines
 9. **Hu, K.**, Li, C., Wang, X., Hu, J., et al. Robust algorithm for multiple watermarking of color images based on BEMD and DCT.
 Journal of Beijing University of Aeronautics and Astronautics, 2021, 1-16. [[In Chinese, EI]](https://kns.cnki.net/kcms/detail/detail.aspx?filename=BJHK20210613006&dbcode=CAPJ&dbname=CAPJ2021&v=VPpzCYKdySPWHy45Z-TLSu00AknPUQkFRizoZM6F1fT0QAhzTVE8fnVksMKNSdc3)[[PDF]](https://drive.google.com/file/d/14gg1Iz_inK1uQ6fxoHHLoD7Kai9mE9Z7/view?usp=sharing)
 10. Xu, Y., **Hu, K.**, Wang, X., et al. Zero watermarking algorithm for remote sensing images based on BEMD and DFT.
-Journal of Computer Aided Design and Graphics. **Under Review** [In Chinese, EI]
+Journal of Computer Aided Design and Graphics. **Accepted** [In Chinese, EI]
 11. Invited reviewer for SCI journals and International Conference. (IF: 2.924 International Journal of Electronics and
 Communications. The 5th International Conference on Computer Science and Application Engineering (CSAE 2021) )
-12. [COMPUTER GRAPHICS INTERNATIONAL CGI 2021](http://www.cgs-network.org/cgi21/#features). Introduction to my research[[YouTube]](https://www.youtube.com/watch?v=h3UzlbjP_IU)
+12. [COMPUTER GRAPHICS INTERNATIONAL CGI 2021](http://www.cgs-network.org/cgi21/#features). Introduction to my research [[YouTube]](https://www.youtube.com/watch?v=h3UzlbjP_IU)[[PPT]](https://docs.google.com/presentation/d/1tWzLrsHpuuZRHFhwwzk351r5fL3Esdzr/edit?usp=sharing&ouid=116594554029619951705&rtpof=true&sd=true)
 13. Two invention patents (Under Authorized) and two National Natural Science Foundation projects [In Research]
-15. Student member of the China Computer Federation (CCF) and Institute of Electrical and Electronics Engineers (IEEE).
+14. Student member of the China Computer Federation (CCF) and Institute of Electrical and Electronics Engineers (IEEE).
 
 
 ---
