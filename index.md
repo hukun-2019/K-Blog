@@ -6,16 +6,13 @@ I have now received a letter of acceptance for my PhD from the Shenzhen Internat
 # Welcome
 
 I hope to communicate and study with you.
-
 This is my first study blog, please waite for my updating.
-
 I will update my blog weekly.
 
 ---
 
 # How can you reach me?
 Email: ucas_hukun#163.com. Please replace “#” with “@”.
-
 Address: No 9.Deng Zhuang South Rd, Hai Dian Dist, Beijing, 100094, China
 
 ---
@@ -24,15 +21,11 @@ Address: No 9.Deng Zhuang South Rd, Hai Dian Dist, Beijing, 100094, China
 - Master’s degree, Technology and Engineering Center for Space Utilization, University of
 Chinese Academy of Sciences, Beijing, China. 2019.09-Present
 (GPA:3.77, Average:85.56)
-
 - Bachelor’s degree in Mathematics and applied mathematics, Tiangong
 University, Tianjin, China. 2015.09-2019.06 (GPA:3.86, Top 1/55)
-
 - High School, Xinyang, Henan Province, China. 2012.09-2015.06
-
 - Third year of junior high school, Xinyang, Henan Province, China.
 2011.09-2012.06 (Top 1/400+)
-
 - Elementary School and Junior High School, Daxing, Beijing, China.
 2002.09-2011.06 (Top 1/300+)
 
