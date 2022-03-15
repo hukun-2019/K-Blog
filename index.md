@@ -55,7 +55,7 @@ University, Tianjin, China. 2015.09-2019.06 (GPA:3.86, Top 1/55)
 
 ---
 # Research Experience
-1. Yang J., **Hu K.**, Wang X., et al. An efficient and robust zero watermarking algorithm[J]. Multimedia Tools and Applications, 2022: 1-19.[IF:2.757][[PDF]](https://drive.google.com/file/d/1I9nJ1f7m8_Ueh1dX8AXbsRAkjIVlHn68/view?usp=sharing)
+1. Yang J., **Hu K.**, Wang X., et al. An efficient and robust zero watermarking algorithm[J]. Multimedia Tools and Applications, 2022: 1-19.[[IF:2.757]](https://link.springer.com/article/10.1007/s11042-022-12115-8)[[PDF]](https://drive.google.com/file/d/1I9nJ1f7m8_Ueh1dX8AXbsRAkjIVlHn68/view?usp=sharing)
 2.  **Hu, K.**, Wang, X., Hu, J., et al. Robust and efficient image watermarking via EMD and dimensionality reduction. Vis Comput (2021). [[IF:2.601]](https://link.springer.com/article/10.1007/s00371-021-02275-3)[[PDF]](https://drive.google.com/file/d/1oCYy-IggKWSR_SNps9gMYvJVSwCacTBc/view?usp=sharing)
 3. **Hu, K.**, Wang, H., Zhang, W., Xu, Y., He, S. Modeling and Simulation of Sky Survey. Applied Sciences. 2021; 11(16):7584.[[IF:2.679]](https://www.mdpi.com/2076-3417/11/16/7584)[[PDF]](https://drive.google.com/file/d/1xIXvdZch3R5V0ypLJAKidE9F0dI4Ur6o/view?usp=sharing)
 4. **Hu, K.**, Wang, X., Hu, J. Repeated embedding image watermarking algorithm combining BEMD and Hilbert curve.
