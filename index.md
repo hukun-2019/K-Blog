@@ -52,6 +52,7 @@ University, Tianjin, China. 2015.09-2019.06 (GPA:3.86, Top 1/55)
 - 2019-2020 Outstanding Communist Party Member of Chinese Academy of Sciences
 - 2020-2021 [Outstanding student](http://www.csu.cas.cn/gb/yjsjy2/tzygg/202104/t20210426_5998302.html)
 - 2020-2021 Chinese Academy of Sciences [”Director’s Special Scholarship”](http://www.csu.cas.cn/gb/yjsjy2/tzygg/202105/t20210521_6036343.html)
+- 2021-2022 Chinese Academy of Sciences ["President Award"](http://bfse.cas.cn/tzgg/202209/t20220905_4846731.html)
 
 ---
 # Research Experience
